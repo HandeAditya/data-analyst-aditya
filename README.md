@@ -327,3 +327,78 @@ Built a simple end-to-end cleaning pipeline ready for integration into analytics
 Summary
 
 This project shows how cloud-native tools like AWS Glue DataBrew and S3 can be used together to clean and manage financial data. It also highlights the importance of organizing datasets and keeping track of AWS usage to avoid unnecessary costs. The result is a structured, clean, and cost-managed dataset environment that’s ready for reporting and future analysis.
+
+
+AWS Project 3 – Building a Scalable Budget Forecasting and Cost Monitoring System
+
+This project demonstrates how I built a complete AWS cloud pipeline for organizing, processing, and analyzing budget data. The goal was to clean, prepare, store, and query historical budget records, and enable real-time insights with billing alerts.
+
+Project Objective
+
+To help an organization streamline their budget analysis and monitoring efforts using AWS Glue, DataBrew, Athena, S3, and CloudWatch. The project uses a cloud-native architecture to handle raw datasets, transform them, and store them in a query-ready format.
+
+Key Steps and Activities
+
+1. Data Lake Setup with Amazon S3
+
+Uploaded Transaction records data into Amazon S3
+Created multiple S3 buckets for raw, cleaned, and curated data
+Used structured folders and descriptive naming
+
+![image](https://github.com/user-attachments/assets/6d1f81fa-a9f8-45f3-8c89-458842953b72)
+
+2. AWS Glue Data Catalog Configuration
+
+Created a Data Catalog using AWS Glue
+Registered tables with accurate metadata
+Ensured schema recognition for further transformation
+
+![image](https://github.com/user-attachments/assets/969bbe9f-ca91-4605-92ae-78e3fcb9b399)
+
+3. Visual ETL Using AWS Glue DtaBrew
+
+Used DataBrew to visually clean and transform datasets
+Merged multiple sources like Audir logs, Transaction Records, Account Reconciliations.
+Set up transformations like removing nulls, converting types, etc.
+
+![image](https://github.com/user-attachments/assets/8c96e905-aed5-4fb7-b33f-cd919c44187e)
+
+4. Querying with Amazon Athena
+
+Queried joined datasets using Athena for insights
+Previewed schema and validated transformation accuracy
+Used SQL to extract cost patterns and department analysis
+
+![image](https://github.com/user-attachments/assets/e47e350f-e130-4aeb-87b3-5ce4db763b02)
+
+5. Budget Cost Monitoring and Alerts
+
+Set up billing alerts using CloudWatch
+Created alarm conditions for estimated charges exceeding threshold
+Used alarm metrics to notify users
+
+![image](https://github.com/user-attachments/assets/1f05c74a-a153-48c5-9b2c-935975cb6e73)
+
+Cost Estimate
+
+Estimated cost was generated using the AWS Pricing Calculator. Based on Glue sessions and usage pattern, the projected monthly cost was minimal.
+
+![image](https://github.com/user-attachments/assets/55db4936-b02c-43ca-b0b3-b92ef613a959)
+
+Final Architecture Diagram
+
+An architecture diagram showing the complete flow—from ingestion to storage, transformation, and query.
+
+![image](https://github.com/user-attachments/assets/638c0620-b372-4296-95b4-9f9bb3d6eb58)
+
+Tools Used
+
+Amazon S3 – Storage buckets for raw and curated data
+AWS Glue – Data catalog and schema registry
+AWS Glue DataBrew – Visual ETL tool for transformation
+Amazon Athena – SQL queries on transformed data
+Amazon CloudWatch – Billing alerts and monitoring
+
+Summary
+
+With this AWS setup, the finance team can now analyze discrepancy in the Audit Logs, track Transaction Records, and Account Reconciliations overdues.. The modular ETL process makes updates simple and ensures future datasets can be integrated easily.
