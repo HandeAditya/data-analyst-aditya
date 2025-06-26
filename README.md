@@ -189,4 +189,23 @@ Security Group Configuration
 
 VPC Architecture
 
+![image](https://github.com/user-attachments/assets/d49b3d47-fc75-4256-ba70-2968bf198a20)
 
+Tools and Technologies
+
+AWS (Amazon Web Services) – EC2, S3, VPC
+Microsoft Excel – For planning and organizing the data lake
+Draw.io – To create system diagrams
+Fishbone Diagram – To find root causes of the discrepancy issues
+
+Deliverables
+
+A working cloud system on AWS for the Finance team
+A planned and organized data lake in Excel
+Diagrams showing system structure and data flow
+Setup of AWS components like VPC, EC2, and S3
+A final report with insights and recommendations
+A presentation for the stakeholders
+
+Summary
+This project helped the Finance team move from outdated systems to a secure and modern cloud setup. With AWS, they can now store and use their financial data more efficiently, make better audit discrepancies , and detect the patterns. This setup is ready for future improvements like automation and live dashboards.
