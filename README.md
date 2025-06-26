@@ -1,7 +1,9 @@
 AWS Cloud Foundations – Learning Journey
+
 This repository contains my notes and key takeaways from the AWS Cloud Foundations learning modules. Each section includes the key concepts I learned, labs I completed, and screenshots of knowledge check results and lab activities.
 
 Module 1: Introduction to Cloud Concepts
+
 In this module, I learned what cloud computing really means. I compared it to traditional computing and understood how cloud computing is more flexible, cost-effective, and scalable.
 
 Key topics I learned:
@@ -15,6 +17,7 @@ Module 1 Knowledge Check
 ![image](https://github.com/user-attachments/assets/efe71b27-0274-4c8c-9a35-02cb3dff38d5)
 
 Module 2: AWS Core Services & Tools
+
 In this part, I explored the basic services provided by AWS and how they help businesses manage their applications and data in the cloud.
 
 Key things I learned:
@@ -29,6 +32,7 @@ Module 2 Knowledge Check
 ![image](https://github.com/user-attachments/assets/c832c262-187d-4ae4-b5c5-b8ba1acc9038)
 
 Module 3: Global Infrastructure & Networking
+
 This module taught me how AWS works around the world using different Regions, Availability Zones, and Edge Locations.
 
 I learned:
@@ -41,6 +45,7 @@ Module 3 Knowledge Check
 ![image](https://github.com/user-attachments/assets/e091322d-17fc-4fdc-b8d7-3eac8a9796ec)
 
 Module 4: Security, Responsibility, and IAM
+
 I learned how AWS keeps data secure and how security responsibilities are shared between AWS and users.
 
 Key takeaways:
@@ -57,6 +62,7 @@ Module 4 Knowledge Check
 ![image](https://github.com/user-attachments/assets/3560ee78-ddb0-40ee-98a9-64f2f437c578)
 
 Module 5: VPC and Network Design
+
 This module helped me create my own isolated network using Amazon VPC.
 
 What I did:
@@ -73,6 +79,7 @@ Module 5 Knowledge Check
 ![image](https://github.com/user-attachments/assets/9d27ea9b-5cd1-4c53-bb7e-d9e6d9c4b373)
 
 Module 6: Serverless and AWS Lambda
+
 In this module, I explored serverless computing using AWS Lambda, which allows running code without provisioning or managing servers.
 
 Key learnings:
@@ -89,6 +96,7 @@ Module 6 Knowledge Check
 ![image](https://github.com/user-attachments/assets/452a5825-6155-4030-98bf-2dd382d2bbaa)
 
 Module 7: Containers and Amazon ECR
+
 This module introduced me to containers and Amazon ECR (Elastic Container Registry).
 
 What I gained:
