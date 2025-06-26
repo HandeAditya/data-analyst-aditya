@@ -266,9 +266,27 @@ Account Reconciliations:
 
 Transaction Records:
 
+![image](https://github.com/user-attachments/assets/2b9436e4-0db3-444c-82f9-bc1777f17cbd)
 
 
+3. Glue DataBrew Projects
 
+Setup separate DataBrew Projects for each dataset:
+
+Audit Logs
+Account Reconciliations
+Transaction Records
+
+Each project allowed for visual data exploration and cleaning without writing code. Common tasks included:
+
+Removing null values
+Fixing column formats
+Applying consistent field naming
+
+
+DataBrew Interface Screenshots
+
+Audit Logs:
 
 
 
