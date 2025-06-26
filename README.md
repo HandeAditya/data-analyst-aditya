@@ -86,6 +86,7 @@ Module 6 Lab Screenshot
 
 Knowledge Check:
 Module 6 Knowledge Check
+https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20225044.png
 
 Module 7: Containers and Amazon ECR
 This module introduced me to containers and Amazon ECR (Elastic Container Registry).
