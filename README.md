@@ -12,7 +12,9 @@ Introduction to IaaS, PaaS, and SaaS
 Real-world examples of cloud usage
 Knowledge Check:
 Module 1 Knowledge Check
-https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20222527.png
+![image](https://github.com/user-attachments/assets/efe71b27-0274-4c8c-9a35-02cb3dff38d5)
+![image](https://github.com/user-attachments/assets/efe71b27-0274-4c8c-9a35-02cb3dff38d5)
+
 
 Module 2: AWS Core Services & Tools
 In this part, I explored the basic services provided by AWS and how they help businesses manage their applications and data in the cloud.
