@@ -288,7 +288,25 @@ DataBrew Interface Screenshots
 
 Audit Logs:
 
+![image](https://github.com/user-attachments/assets/9dfa388c-c98e-4006-a96a-e180122752f3)
 
+Account Reconciliations:
 
+![image](https://github.com/user-attachments/assets/912d7e41-4584-4f3c-b878-9b3e93d1f1fc)
 
+Transaction Records:
+
+![image](https://github.com/user-attachments/assets/3b0d4cdb-975c-4076-a40e-f6926aeedafa)
+
+4. Running Data Cleaning Jobs
+After finalizing the cleaning steps (called "recipes" in Glue DataBrew), I ran the jobs. The cleaned outputs were automatically saved into the correct folders in the S3 bucket:
+
+system/Audit Logs/
+system/Account Reconciliations/
+system/Transaction Records/
+user/Audit Logs/
+user/Account Reconciliations/
+user/Transaction Records/
+
+Job Output Confirmation
 
