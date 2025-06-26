@@ -158,5 +158,24 @@ Grouped data by department and time
 Found differences between discrepancies and actual patterns
 
 3. Data Visualization
+![image](https://github.com/user-attachments/assets/71af0497-3a16-40bb-bc16-edef9e123180)
 
-   
+4. Team Segmentation
+Identified how different finance teams use data
+Created strategies for giving the right access to the right people
+
+5. Insights and Findings
+Old systems couldn’t grow with the company
+Data was scattered and hard to work with
+AWS helped bring all financial data into one place and lower storage costs
+
+6. Recommendations
+Keep using AWS EC2 and S3 for better data handling
+Use AWS Lambda to automate updates and refreshes
+
+7. Implementation Screenshots
+
+EC2 Instance Setup
+
+
+
