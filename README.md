@@ -237,11 +237,26 @@ Each dataset had formatting issues, null values, and inconsistencies that were a
 
 Methodology
 
-AWS Billing Review
+1.AWS Billing Review
 
 Started by checking the AWS Billing Dashboard to review service usage and costs from the previous week. This helped understand how resources were being consumed and how to manage them more efficiently going forward.
 
 Billing Screenshot
+
+![image](https://github.com/user-attachments/assets/db6c303c-71d6-445c-a237-b43acc539b75)
+
+2. S3 Bucket Setup
+
+Created a new S3 bucket named finance-cln-adi. Two main folders were added:
+
+system/ – for internal datasets used by backend systems
+user/ – for datasets used by end users or teams
+
+This folder structure helped organize the outputs from each dataset type.
+
+S3 Folder Structure
+
+Historical Budget: 
 
 
 
