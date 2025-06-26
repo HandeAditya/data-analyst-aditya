@@ -54,6 +54,7 @@ Module 4 Lab Screenshot
 
 Knowledge Check:
 Module 4 Knowledge Check
+![image](https://github.com/user-attachments/assets/3560ee78-ddb0-40ee-98a9-64f2f437c578)
 
 Module 5: VPC and Network Design
 This module helped me create my own isolated network using Amazon VPC.
