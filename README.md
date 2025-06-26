@@ -208,4 +208,41 @@ A final report with insights and recommendations
 A presentation for the stakeholders
 
 Summary
+
 This project helped the Finance team move from outdated systems to a secure and modern cloud setup. With AWS, they can now store and use their financial data more efficiently, make better audit discrepancies , and detect the patterns. This setup is ready for future improvements like automation and live dashboards.
+
+AWS Project 2 - Data Cleaning with AWS Glue DataBrew and S3
+
+This project focuses on cleaning and organizing financial datasets using AWS Glue DataBrew and storing the outputs in a well-structured Amazon S3 bucket. It also involved reviewing AWS billing usage to manage cloud costs more effectively. The cleaned data is now ready for analysis and reporting.
+
+Project Description
+The goal of this project was to clean raw financial datasets using AWS Glue DataBrew and store them in a clean and accessible format on Amazon S3. The work also included monitoring AWS billing to ensure the infrastructure remained cost-efficient.
+
+Objective
+To prepare financial datasets for analysis by:
+
+Reviewing and understanding cloud service billing
+Cleaning data using Glue DataBrew recipes
+Organizing cleaned datasets in a structured S3 storage layout
+
+Dataset
+
+The project focused on three key datasets: 
+
+Audit Logs
+Transaction Records
+Account Reconciliations
+
+Each dataset had formatting issues, null values, and inconsistencies that were addressed using AWS Glue DataBrew.
+
+Methodology
+
+AWS Billing Review
+
+Started by checking the AWS Billing Dashboard to review service usage and costs from the previous week. This helped understand how resources were being consumed and how to manage them more efficiently going forward.
+
+Billing Screenshot
+
+
+
+
