@@ -38,6 +38,7 @@ The difference between a Region, AZ, and Edge Location
 Why location of data centers matters for speed, privacy, and performance
 Knowledge Check:
 Module 3 Knowledge Check
+https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20223300.png
 
 Module 4: Security, Responsibility, and IAM
 I learned how AWS keeps data secure and how security responsibilities are shared between AWS and users.
@@ -53,6 +54,7 @@ Module 4 Lab Screenshot
 
 Knowledge Check:
 Module 4 Knowledge Check
+
 
 Module 5: VPC and Network Design
 This module helped me create my own isolated network using Amazon VPC.
