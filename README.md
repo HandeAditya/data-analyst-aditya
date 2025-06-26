@@ -26,7 +26,6 @@ AWS Pricing Calculator: To estimate service costs
 How to find support using AWS Support Plans
 Knowledge Check:
 Module 2 Knowledge Check
-https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20222956.png
 
 Module 3: Global Infrastructure & Networking
 This module taught me how AWS works around the world using different Regions, Availability Zones, and Edge Locations.
@@ -38,7 +37,6 @@ The difference between a Region, AZ, and Edge Location
 Why location of data centers matters for speed, privacy, and performance
 Knowledge Check:
 Module 3 Knowledge Check
-https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20223300.png
 
 Module 4: Security, Responsibility, and IAM
 I learned how AWS keeps data secure and how security responsibilities are shared between AWS and users.
@@ -54,7 +52,6 @@ Module 4 Lab Screenshot
 
 Knowledge Check:
 Module 4 Knowledge Check
-https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20224248.png
 
 Module 5: VPC and Network Design
 This module helped me create my own isolated network using Amazon VPC.
@@ -70,7 +67,6 @@ Module 5 Lab Screenshot
 
 Knowledge Check:
 Module 5 Knowledge Check
-https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20224718.png
 
 Module 6: Serverless and AWS Lambda
 In this module, I explored serverless computing using AWS Lambda, which allows running code without provisioning or managing servers.
@@ -86,7 +82,6 @@ Module 6 Lab Screenshot
 
 Knowledge Check:
 Module 6 Knowledge Check
-https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20225044.png
 
 Module 7: Containers and Amazon ECR
 This module introduced me to containers and Amazon ECR (Elastic Container Registry).
@@ -102,7 +97,6 @@ Module 7 Lab Screenshot
 
 Knowledge Check:
 Module 7 Knowledge Check
-https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20225326.png
 
 Summary
 These seven modules gave me a solid understanding of AWS fundamentals—from cloud concepts and core services to networking, security, serverless, and containers. The labs and knowledge checks helped reinforce what I learned, and I'm now confident in applying these skills in real-world cloud projects.
