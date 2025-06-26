@@ -38,6 +38,7 @@ The difference between a Region, AZ, and Edge Location
 Why location of data centers matters for speed, privacy, and performance
 Knowledge Check:
 Module 3 Knowledge Check
+![image](https://github.com/user-attachments/assets/e091322d-17fc-4fdc-b8d7-3eac8a9796ec)
 
 Module 4: Security, Responsibility, and IAM
 I learned how AWS keeps data secure and how security responsibilities are shared between AWS and users.
