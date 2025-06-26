@@ -125,4 +125,38 @@ AWS Projects
 Welcome! This is a collection of my practical AWS projects and assignments. These projects focus on cloud computing, data storage, and AWS infrastructure.
 
 
-Project - Improving 
+Project 1 - Improving Budget Forecasting for the Finance Team Using AWS
+
+
+Project Description
+
+In this project, I helped the Finance Department fix problems in their audit discrepancies in financial reporting. I used AWS (Amazon Web Services) to build a cloud-based system that makes their data easier to manage, more secure, and more accurate for future use.
+
+Objective
+
+ The goal was to study where the finance team's currently lacking in the audits in reporting, then create a cloud solution using AWS tools like S3 and EC2 to organize and protect their financial data.
+
+
+ Dataset
+
+ I worked with different types of financial data and uploaded them into cloud storage:
+
+ Audit Logs - Past audit logs report
+ Transaction Records - Past transaction records update
+ Account Reconciliations - Comparing sets of the records.
+
+ Methodology
+
+1. Data Collection and Preparation
+Found out why there was the discrepancies in the audits using a Fishbone Diagram
+Planned how the data would be organized using Excel
+Uploaded clean and well-labeled data to AWS S3
+
+2. Descriptive Statistics
+Looked at trends in patterns in transactions and logs that lead to inconcistencies in audits
+Grouped data by department and time
+Found differences between discrepancies and actual patterns
+
+3. Data Visualization
+
+   
