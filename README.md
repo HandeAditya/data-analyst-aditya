@@ -54,7 +54,7 @@ Module 4 Lab Screenshot
 
 Knowledge Check:
 Module 4 Knowledge Check
-
+https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20224248.png
 
 Module 5: VPC and Network Design
 This module helped me create my own isolated network using Amazon VPC.
@@ -70,6 +70,7 @@ Module 5 Lab Screenshot
 
 Knowledge Check:
 Module 5 Knowledge Check
+
 
 Module 6: Serverless and AWS Lambda
 In this module, I explored serverless computing using AWS Lambda, which allows running code without provisioning or managing servers.
