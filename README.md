@@ -70,6 +70,7 @@ Module 5 Lab Screenshot
 
 Knowledge Check:
 Module 5 Knowledge Check
+![image](https://github.com/user-attachments/assets/9d27ea9b-5cd1-4c53-bb7e-d9e6d9c4b373)
 
 Module 6: Serverless and AWS Lambda
 In this module, I explored serverless computing using AWS Lambda, which allows running code without provisioning or managing servers.
