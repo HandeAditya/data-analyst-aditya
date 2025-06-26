@@ -26,6 +26,7 @@ AWS Pricing Calculator: To estimate service costs
 How to find support using AWS Support Plans
 Knowledge Check:
 Module 2 Knowledge Check
+https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20222956.png
 
 Module 3: Global Infrastructure & Networking
 This module taught me how AWS works around the world using different Regions, Availability Zones, and Edge Locations.
