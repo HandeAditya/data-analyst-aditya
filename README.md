@@ -114,4 +114,5 @@ Module 7 Knowledge Check
 
 Summary
 
+
 These seven modules gave me a solid understanding of AWS fundamentals—from cloud concepts and core services to networking, security, serverless, and containers. The labs and knowledge checks helped reinforce what I learned, and I'm now confident in applying these skills in real-world cloud projects.
