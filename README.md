@@ -185,3 +185,8 @@ S3 Bucket Structure
 
 Security Group Configuration
 
+![image](https://github.com/user-attachments/assets/4e2e9eb0-d236-43e7-953c-5bd5f2b2982a)
+
+VPC Architecture
+
+
