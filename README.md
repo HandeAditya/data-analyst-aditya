@@ -86,6 +86,7 @@ Module 6 Lab Screenshot
 
 Knowledge Check:
 Module 6 Knowledge Check
+![image](https://github.com/user-attachments/assets/452a5825-6155-4030-98bf-2dd382d2bbaa)
 
 Module 7: Containers and Amazon ECR
 This module introduced me to containers and Amazon ECR (Elastic Container Registry).
