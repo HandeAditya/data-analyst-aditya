@@ -102,6 +102,7 @@ Module 7 Lab Screenshot
 
 Knowledge Check:
 Module 7 Knowledge Check
+https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20225326.png
 
 Summary
 These seven modules gave me a solid understanding of AWS fundamentals—from cloud concepts and core services to networking, security, serverless, and containers. The labs and knowledge checks helped reinforce what I learned, and I'm now confident in applying these skills in real-world cloud projects.
