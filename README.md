@@ -181,4 +181,7 @@ EC2 Instance Setup
 
 S3 Bucket Structure
 
+![image](https://github.com/user-attachments/assets/c4a5acba-3756-4dad-b045-518bb6faebce)
+
+Security Group Configuration
 
