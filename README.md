@@ -177,5 +177,8 @@ Use AWS Lambda to automate updates and refreshes
 
 EC2 Instance Setup
 
+![image](https://github.com/user-attachments/assets/aa9ffc9b-ff93-40e4-ba92-f89a4ae33e2f)
+
+S3 Bucket Structure
 
 
