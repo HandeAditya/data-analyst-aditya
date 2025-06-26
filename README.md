@@ -70,7 +70,7 @@ Module 5 Lab Screenshot
 
 Knowledge Check:
 Module 5 Knowledge Check
-
+https://github.com/HandeAditya/data-analyst-aditya/blob/main/Screenshot%202025-06-25%20224718.png
 
 Module 6: Serverless and AWS Lambda
 In this module, I explored serverless computing using AWS Lambda, which allows running code without provisioning or managing servers.
