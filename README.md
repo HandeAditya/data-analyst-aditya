@@ -310,3 +310,20 @@ user/Transaction Records/
 
 Job Output Confirmation
 
+![image](https://github.com/user-attachments/assets/3265d7cd-02f8-4016-84b0-3258d750c5c7)
+
+Tools and Technologies
+AWS Glue DataBrew – for no-code data cleaning
+Amazon S3 – for organizing and storing cleaned datasets
+AWS Billing Dashboard – for monitoring and managing costs
+
+Key Learnings
+
+Learned how to use AWS Glue DataBrew for practical data transformation
+Improved ability to plan and structure cloud storage
+Gained insights into AWS cost monitoring and budgeting
+Built a simple end-to-end cleaning pipeline ready for integration into analytics workflows
+
+Summary
+
+This project shows how cloud-native tools like AWS Glue DataBrew and S3 can be used together to clean and manage financial data. It also highlights the importance of organizing datasets and keeping track of AWS usage to avoid unnecessary costs. The result is a structured, clean, and cost-managed dataset environment that’s ready for reporting and future analysis.
